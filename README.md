@@ -93,7 +93,7 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-👉 [Click here to open the app]((https://heart-disease-prediction-h.streamlit.app/))
+👉 [Click here to open the app](https://heart-disease-prediction-h.streamlit.app/)
 
 
 ---
