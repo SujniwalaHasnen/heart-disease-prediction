@@ -77,7 +77,7 @@ heart-disease-prediction/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/heart-disease-prediction.git
+git clone https://github.com/SujniwalaHasnen/heart-disease-prediction.git
 
 # 2. Go into the folder
 cd heart-disease-prediction
@@ -93,13 +93,12 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-👉 [Click here to open the app](https://your-app-link.streamlit.app)
+👉 [Click here to open the app]([https://your-app-link.streamlit.app](https://heart-disease-prediction-h.streamlit.app/))
 
-*(Update this link after deploying on Streamlit Cloud)*
 
 ---
 
 ## 👨‍💻 Author
 
-**Your Name**  
+**Sujniwala Hasnen**  
 Assignment Project — Machine Learning
