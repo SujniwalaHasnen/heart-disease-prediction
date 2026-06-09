@@ -108,4 +108,3 @@ streamlit run app.py
 ## 👨‍💻 Author
 
 **Sujniwala Hasnen**  
-Assignment Project — Machine Learning
