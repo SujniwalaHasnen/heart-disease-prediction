@@ -10,7 +10,7 @@ This project was built as part of a Machine Learning assignment. It uses a **Dec
 
 The model takes 13 medical inputs from the user and gives an instant prediction through a simple and interactive web interface built with **Streamlit**.
 
----
+--- 
 
 ## 🧠 How The Model Works
 
