@@ -26,6 +26,8 @@ The model takes 13 medical inputs from the user and gives an instant prediction 
 - F1-Score: 0.86
 - Dataset: Cleveland Heart Disease (303 rows, 80/20 split)
 
+---
+
 ## 📊 Input Features
 
 | Feature | Description |
