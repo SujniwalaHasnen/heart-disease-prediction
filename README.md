@@ -20,6 +20,11 @@ The model takes 13 medical inputs from the user and gives an instant prediction 
 4. **Saved Model** — The trained model is saved as `heart_model.joblib` using the `joblib` library
 
 ---
+## Model Performance
+- Algorithm: Decision Tree (max_depth=5)
+- Accuracy: 84%
+- F1-Score: 0.86
+- Dataset: Cleveland Heart Disease (303 rows, 80/20 split)
 
 ## 📊 Input Features
 
